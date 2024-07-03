@@ -1,0 +1,1 @@
+add_library(KATExtractFunctors MODULE KATExtractFunctors.cpp)
